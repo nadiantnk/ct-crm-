@@ -201,5 +201,7 @@ _ _ _
 Услуги - название
 Запись пациента - ФИО
 
+<img width="1631" height="621" alt="изображение" src="https://github.com/user-attachments/assets/c736a1fa-b39b-4fb0-bf55-ef2bfe168363" />
+
 
 
